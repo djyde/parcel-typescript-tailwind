@@ -1,5 +1,12 @@
+const mdColors = require('@egoist/md-colors')
+
 module.exports = {
   plugins: [
-    require('tailwindcss')
+    require('tailwindcss')({
+      theme: {
+        transparent: 'transparent',
+        ...mdColors
+      }
+    })
   ]
 }

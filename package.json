@@ -4,6 +4,7 @@
     "dev": "parcel assets/index.html"
   },
   "dependencies": {
+    "@egoist/md-colors": "^1.1.0",
     "parcel-bundler": "^1.12.4",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
