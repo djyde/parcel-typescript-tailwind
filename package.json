@@ -1,0 +1,13 @@
+{
+  "name": "parcel-typescript-tailwind",
+  "scripts": {
+    "dev": "parcel assets/index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "tailwindcss": "^1.2.0",
+    "typescript": "^3.8.3"
+  }
+}
