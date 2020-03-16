@@ -5,6 +5,9 @@
   },
   "dependencies": {
     "@egoist/md-colors": "^1.1.0",
+    "@types/react": "^16.9.23",
+    "@types/react-dom": "^16.9.5",
+    "autoprefixer": "^9.7.4",
     "parcel-bundler": "^1.12.4",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
